@@ -1,0 +1,3 @@
+Name: JVC
+Age: 31
+Fav color: grey
